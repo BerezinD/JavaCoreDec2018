@@ -4,8 +4,8 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 /**
- * This class is writting to solve only one task - homework from EPAM
- * @author someOneFromEPAM
+ * This class is writing to solve only one task - homework from EPAM
+ * @author BerezinD
  * @version 2.0
  * from <i>11.12.2013</i>
  */
