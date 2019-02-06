@@ -1,5 +1,6 @@
 package Java_SE_02.SixthToSeventhTask;
 
+@vroom(minHorsePower = 3000)
 public class Submarine {
 
     private class EngineForSubmarine{
